@@ -14,7 +14,7 @@ dev:
   vars:
     stacker_group: 'am'
     stacker_subgroup: 'dev'
-    k8s_api_address: '10.10.10.11'
+    k8s_api_address: 'api.dev.aws.andah.me'
     k8s_pod_network_prefix: '10.200'
     k8s_service_network_cidr: '10.32.0.0/24'
 
